@@ -1,3 +1,3 @@
-# UsageStatsManager-Sample
+# NextRewards
 
-Sample app to learn how to use UsageStatsManager. Read more here https://medium.com/@quiro91/show-app-usage-with-usagestatsmanager-d47294537dab#.ptua9mekv
+A Incentive based app for school kids to encourage them to use it more. This app also tracks the app usage pattern of students.
